@@ -283,9 +283,13 @@ footer {
   text-align: center;
 }
 
+.entry {
+  display: flex;
+}
+
 .thumb {
-  width: 80px;
-  float: right;
+  width: 150px;
+  object-fit: contain;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
