@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CXCR4 expression
+thumb: /images/km.png
 ---
 
 CXCR4 expression varies significantly among different subtypes of glioblastoma multiforme (GBM) and its low expression or hypermethylation might predict favorable overall survival
