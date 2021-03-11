@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An online exploration tool for public and private, multi-omic and clinical/phenotype data
 
-### More Information
+[More information](http://xena.ucsc.edu/)
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[genome-cancer@soe.ucsc.edu](mailto:genome-cancer@soe.ucsc.edu)
