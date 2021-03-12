@@ -1,0 +1,21 @@
+---
+layout: post
+title: Investigations into Active transcriptome phenotype in breast tissue
+---
+
+Taekyu Kang, Christina Yau, Christopher K. Wong, John Z. Sanborn, Yulia Newton, Charlie Vaske, Stephen C. Benz, Gregor Krings, Roman Camarda, Jill E. Henry, Josh Stuart, Mark Powell & Christopher C. Benz. A risk-associated Active transcriptome phenotype expressed by histologically normal human breast tissue and linked to a pro-tumorigenic adipocyte population. (2020) Breast Cancer Research
+
+
+# Abstract
+### Background
+Previous studies have identified and validated a risk-associated Active transcriptome phenotype commonly expressed in the cancer-adjacent and histologically normal epithelium, stroma, and adipose containing peritumor microenvironment of clinically established invasive breast cancers, conferring a 2.5- to 3-fold later risk of dying from recurrent breast cancer. Expression of this Active transcriptome phenotype has not yet been evaluated in normal breast tissue samples unassociated with any benign or malignant lesions; however, it has been associated with increased peritumor adipocyte composition.
+### Methods
+Detailed histologic and transcriptomic (RNAseq) analyses were performed on normal breast biopsy samples from 151 healthy, parous, non-obese (mean BMI = 29.60 ± 7.92) women, ages 27–66 who donated core breast biopsy samples to the Komen Tissue Bank, and whose average breast cancer risk estimate (Gail score) at the time of biopsy (1.27 ± 1.34) would not qualify them for endocrine prevention therapy.
+### Results
+Full genome RNA sequencing (RNAseq) identified 52% (78/151) of these normal breast samples as expressing the Active breast phenotype. While Active signature genes were found to be most variably expressed in mammary adipocytes, donors with the Active phenotype had no difference in BMI but significantly higher Gail scores (1.46 vs. 1.18; p = 0.007). Active breast samples possessed 1.6-fold more (~ 80%) adipocyte nuclei, larger cross-sectional adipocyte areas (p < 0.01), and 0.5-fold fewer stromal and epithelial cell nuclei (p < 1e−6). Infrequent low-level expression of cancer gene hotspot mutations was detected but not enriched in the Active breast samples. Active samples were enriched in gene sets associated with adipogenesis and fat metabolism (FDR q ≤ 10%), higher signature scores for cAMP-dependent lipolysis known to drive breast cancer progression, white adipose tissue browning (Wilcoxon p < 0.01), and genes associated with adipocyte activation (leptin, adiponectin) and remodeling (CAV1, BNIP3), adipokine growth factors (IGF-1, FGF2), and pro-inflammatory fat signaling (IKBKG, CCL13).
+### Conclusions
+The risk-associated Active transcriptome phenotype first identified in cancer-adjacent breast tissues also occurs commonly in healthy women without breast disease who do not qualify for breast cancer chemoprevention, and independently of breast expressed cancer-associated mutations. The risk-associated Active phenotype appears driven by a pro-tumorigenic adipocyte microenvironment that can predate breast cancer development.
+
+# How they used Xena
+These authors chose to use Xena to make their publication data publicly available. Check out their data at:
+## https://xenabrowser.net/datapages/?cohort=Normal%20Breast%20(Benz%202020
